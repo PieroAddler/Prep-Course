@@ -1,0 +1,13 @@
+En un archivo de texto separado que debes crear, 
+escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier 
+agujero en tu comprensión.
+Variables: Son elementos en el que se pueden almacenar valores que pueden variar o reusarse.
+String: Tipo de variable donde puedes guardar desde letras hasta numeros, pero en forma de caracteres.
+Funciones (argumentos, return): Las funciones son pedazos de código que se pueden utilizar varias veces,
+los argumentos de las funciones son datos que se usaran en aquella funcion y al cambiarlos dan diferente resultado,
+return es lo que retorna, o basicamente el valor que devuelve al ejecutarse la función.
+Declaraciones if: Es un tipo de declaración la cual se ejecuta solo si su condición es verdadera(true).
+Valores booleanos(true,false): Los booleanos son un tipo de variable que solo acepta dos 
+valores: true y false(verdadero y falso), las cuales nos dicen si se cumple o no.
