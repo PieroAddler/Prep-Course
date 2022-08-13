@@ -1,0 +1,7 @@
+for:Es un ciclo que permite ejecutar un bloque de codigo las veces que sea indicada mediante 
+los siguientes datos: el valor inicial, condición de finalizar y paso; los cuales son puestos en 
+la parte superior del for.
+&&,||,!: Son operadores lógicos para validar uno o más condiciones.
+&& es el ("y") nos da true si ambos son true.
+|| es el ("o") nos da false si ambos son false.
+! es el negador, si es true lo convierte a false y viceversa.
