@@ -1,0 +1,19 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos: Son un tipo de dato que se usa para definir cualquier objeto real colocando sus propiedades,
+en pares de clave valor, por ejemplo: "Color:rojo".
+Propiedades:Son los valores caracterizticos de un objeto.
+Métodos:Son las funciones que puede realizar ese objeto.
+
+Bucle for…in: Es una forma de recorrer todas las propiedades de un objeto.
+Sintaxis: 
+for(let clave in <objeto>){
+    //código a operar
+}
+
+Notación de puntos vs notación de corchetes:Son dos formas de llamar a las propiedades(o atributos)
+de un objeto; la notación de puntos consiste en colocar el nombre del objeto, luego el punto, y 
+después la propiedad a la que queremos acceder; la notación de corchetes consiste en colocar el objeto,
+y luego la propiedad entre comillas y corchetes.
