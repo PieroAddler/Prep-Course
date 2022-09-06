@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 18px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url('https://www.solofondos.com/wp-content/uploads/2015/11/fondo.png');
+    object-fit: none;
+}
+.div1-img{
+    height: 80%;
+    border-radius: 40px;
+    border: solid 3px #242526;
+}
+
+#div1{
+    display: flex;
+    height: 70vh;
+}
+#div1__1{
+    width: 40%;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+}
+#div1__2{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div2{
+    height: 30vh;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#div3{
+    height: 15vh;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div4{
+    height: 30vh;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#div5{
+    height: 35vh;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#div6{
+    height: 20vh;
+    padding: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div6 > h3{
+    font-size: 20px;
+}
+#div6 > p{
+    font-size: 20px;
+}

@@ -4,16 +4,16 @@ function mayuscula(nombre) {
   //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
   //ej: Recibe "mario" ----> Devuelve "Mario"
   //Tu código:
-  let mayusc = nombre[0].toUpperCase();
-  let nombreEnMayusc = nombre.replace(nombre[0],mayusc);
-  nombre = nombreEnMayusc;
-  return nombre;
+  let mayusc = nombre[0].toUpperCase();                  //creamos una variable con la primera convertida en mayusculas
+  let nombreEnMayusc = nombre.replace(nombre[0],mayusc); //reemlazamos esa variable por la actual
+  nombre = nombreEnMayusc;                               //reemplazamos la nueva variable
+  return nombre;                                         //la devolvemos
 }
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
   //Tu código:
-  return cb();
+  return cb();                
 }
 
 function operacionMatematica(n1, n2, cb) {
